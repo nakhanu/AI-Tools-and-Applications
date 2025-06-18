@@ -88,5 +88,17 @@ Deployed a digit classifier trained on MNIST using Streamlit.
 - Streamlit
 
 ---
+##Folder structure
+AI-Tools-and-Applications/
+├── notebooks/
+│   ├── AI_Tools_Assignment_Theory.ipynb
+│   ├── Classical_ML_with_Scikit-learn.ipynb
+│   ├── Deep_Learning_with_TensorFlow_MNIST.ipynb
+│   ├── NLP_with_spaCy.ipynb
+│   └── MNIST_Classifier_with_Streamlit.ipynb  # if you did bonus task
+├── README.md
+
+
+
 
 
