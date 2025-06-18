@@ -1,10 +1,7 @@
 # 🛠️ Mastering the AI Toolkit – AI Tools & Applications Assignment
 
-**Course**: AI Tools and Applications  
-**Group Members**:  
+**Course**: AI Tools and Applications   
 - Sophia Nakhanu  
-- [Member 2 Name]  
-- [Member 3 Name]  
 
 ## 📌 Assignment Overview
 
@@ -71,7 +68,7 @@ We answer and compare:
 Deployed a digit classifier trained on MNIST using Streamlit.
 
 📷 **Screenshot**:
-![Streamlit Screenshot](./images/streamlit_demo.png)
+![Streamlit Screenshot](./Screenshot 2025-06-18 074456.png)
 
 🔗 **Live Demo**: [Click here to run the app](https://share.streamlit.io/yourusername/mnist-streamlit-app/main/app.py)
 
