@@ -89,5 +89,4 @@ Deployed a digit classifier trained on MNIST using Streamlit.
 
 ---
 
-## 📁 Folder Structure
 
