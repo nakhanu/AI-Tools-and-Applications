@@ -81,13 +81,13 @@ This project is a group assignment focused on the real-world application of vari
 ## 🖼️ Sample Output Gallery
 
 <p align="center">
-  <img src="screenshots/iris_tree (1).png" width="100"/>
-  <img src="screenshots/iris_pairplot.png" width="100"/>
-  <img src="screenshots/Deep Learning Prediction Images.png" width="100"/>
-  <img src="screenshots/sentiment_by_entity.png" width ="100"/>
-  <img src="screenshots/sentiment_pie.png" width= "100" />
-  <img src="screenshots/top_entities.png" width= "100"/>
-  <img src="screenshots/wordcloud.png" width= "100"/>
+  <img src="screenshots/iris_tree (1).png" width="50"/>
+  <img src="screenshots/iris_pairplot.png" width="50"/>
+  <img src="screenshots/Deep Learning Prediction Images.png" width="50"/>
+  <img src="screenshots/sentiment_by_entity.png" width ="50"/>
+  <img src="screenshots/sentiment_pie.png" width= "50" />
+  <img src="screenshots/top_entities.png" width= "50"/>
+  <img src="screenshots/wordcloud.png" width= "50"/>
 </p>
 
 > 💡 Additional screenshots and graphs are included in the final PDF report.
